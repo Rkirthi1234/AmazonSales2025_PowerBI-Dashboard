@@ -1,6 +1,6 @@
 # Amazon Sales 2025 - PowerBI Dashboard
 This project presents an interactive Power BI dashboard for analyzing Amazon’s sales performance and cancellation trends in 2025.
-It provides data-driven insights into sales growth, customer buying patterns, and cancellation causes — enabling better decision-making to boost sales and reduce cancellations.
+It provides data-driven insights into sales growth, customer buying patterns, and cancellation causes enabling better decision-making to boost sales and reduce cancellations.
 
 # Objectives:
 Monitor total sales performance by product category, region, and time.
