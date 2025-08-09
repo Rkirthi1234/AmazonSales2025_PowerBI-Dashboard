@@ -31,10 +31,10 @@ Hover tooltips for extra details
 KPI cards for quick performance metrics
 
 # Key Insights:
-Leverage top-selling categories: 
+- Leverage top-selling categories: 
 Electronics & Mobile Accessories are your biggest revenue drivers — increase ad spend, run bundle offers, and launch exclusive deals in this segment.
 
-Boost underperforming regions: 
+*Boost underperforming regions: 
 Target marketing campaigns and localized offers in low-sales regions to capture untapped demand.
 
 Capitalize on festive season spikes:
