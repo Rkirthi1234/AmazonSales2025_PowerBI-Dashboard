@@ -10,7 +10,7 @@ Identify cancellation trends and their impact on revenue.
 Explore detailed insights using drill-through reports for sales and cancellation data.
 
 # Dashboard Features:
-# Main Dashboards:
+## Main Dashboards:
 
 Sales Overview – KPIs, revenue trends, top products, and regional sales distribution.
 
